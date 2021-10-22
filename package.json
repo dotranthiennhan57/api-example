@@ -1,0 +1,16 @@
+{
+  "name": "api-example",
+  "version": "1.0.0",
+  "description": "Backend API Example",
+  "main": "src/app.ts",
+  "repository": "https://github.com/dotranthiennhan57/api-example.git",
+  "author": "Nhan Do",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.11.4",
+    "typescript": "^4.4.4"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0"
+  }
+}
